@@ -1,7 +1,7 @@
 # Spoiler Api Front End
 
 <h1 align="center">
-  <img alt="imagem aplicação" src="/spoiler-frontend/.github/tela.png">
+  <img alt="imagem aplicação" src=".github/tela.png">
 </h1>
 
 <p align="center">
